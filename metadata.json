@@ -1,0 +1,5 @@
+{
+  "name": "Academic Outreach Assistant",
+  "description": "An intelligent assistant to streamline academic outreach. Upload your resume, specify a university and your goal, and the app will find relevant professors using Google Search and draft personalized cold emails for you to review and send.",
+  "requestFramePermissions": []
+}
